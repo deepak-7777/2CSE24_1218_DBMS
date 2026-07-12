@@ -26,7 +26,7 @@ It focuses on improving query writing, data analysis, and database management sk
 ### 🔄 Data Manipulation (DML)
 
 * Insert records
-* Update salary records
+* Update salary records 
 * Delete records based on conditions
 
 ---
